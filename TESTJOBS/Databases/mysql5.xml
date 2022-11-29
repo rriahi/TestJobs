@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root t='240' id='1' V240='4' databaseType='mysql' databaseName='testmysql' urlPattern='jdbc:mysql://${hostPort}/${databaseName}?zeroDateTimeBehavior=convertToNull&amp;transformedBitIsBoolean=false&amp;tinyInt1isBit=false' userName='root' password='passwordmysql5' hostPort='localhost:52000' driverClassName='com.mysql.jdbc.Driver' xaDataSourceClassName='com.mysql.jdbc.jdbc2.optional.MysqlXADataSource' hibernateDialect='org.hibernate.dialect.MySQL5Dialect' structDir='Structures/mysql5' defaultPrimaryKeyColumns='-1' V1='4' name='mysql5' incarnation='6'>
+</root>
