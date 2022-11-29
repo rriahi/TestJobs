@@ -6,8 +6,6 @@
   }, {
     "id" : "org.talend.bigdata.streaming.feature.feature.group"
   }, {
-    "id" : "org.talend.lite.amc.feature.feature.group"
-  }, {
     "id" : "org.talend.lite.bd.cdh.x.feature.feature.group"
   }, {
     "id" : "org.talend.lite.bd.cdp.x.feature.feature.group"
@@ -56,8 +54,6 @@
   }, {
     "id" : "org.talend.lite.designer.component.ws.consumer.feature.feature.group"
   }, {
-    "id" : "org.talend.lite.di.audit.feature.feature.group"
-  }, {
     "id" : "org.talend.lite.di.cdc.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.component.azuredlsgen2.feature.feature.group"
@@ -74,29 +70,15 @@
   }, {
     "id" : "org.talend.lite.di.components.pe.feature.feature.group"
   }, {
-    "id" : "org.talend.lite.di.datalineage.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.di.docker.feature.feature.group"
-  }, {
     "id" : "org.talend.lite.di.edifact.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.di.importation.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.di.jobscript.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.jobtemplate.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.metadata.mdm.feature.feature.group"
   }, {
-    "id" : "org.talend.lite.di.publish.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.di.resource.feature.feature.group"
-  }, {
     "id" : "org.talend.lite.di.sap.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.testcontainer.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.di.validationrules.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.wsdl.feature.feature.group"
   }, {
@@ -106,25 +88,11 @@
   }, {
     "id" : "org.talend.lite.dq.feature.feature.group"
   }, {
-    "id" : "org.talend.lite.esb.apidesigner.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.metadata.bridge.feature.feature.group"
-  }, {
     "id" : "org.talend.lite.tdm.core.feature.feature.group"
   }, {
     "id" : "org.talend.lite.tdm.spark.feature.feature.group"
   }, {
-    "id" : "org.talend.studio.components.bd.documentDB.feature.feature.group"
-  }, {
     "id" : "org.talend.studio.components.di.cyberark.feature.feature.group"
-  }, {
-    "id" : "org.talend.studio.components.tck.google.analytics.feature.feature.group"
-  }, {
-    "id" : "org.talend.studio.components.tck.kudu.feature.feature.group"
-  }, {
-    "id" : "org.talend.studio.components.tck.samba.feature.feature.group"
-  }, {
-    "id" : "org.talend.studio.components.tck.tableau.feature.feature.group"
   }, {
     "id" : "org.talend.studio.components.tck.zendesk.feature.feature.group"
   }, {
